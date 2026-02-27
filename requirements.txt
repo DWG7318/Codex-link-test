@@ -1,0 +1,2 @@
+# No third-party Python packages required for the default pipeline.
+# Uses Python 3 standard library only.
